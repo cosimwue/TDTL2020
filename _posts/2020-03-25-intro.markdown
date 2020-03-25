@@ -7,4 +7,28 @@ img: # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: 
 ---
-Pedicabo ego vos et irrumabo
+*Twelve Days to London* (TDTL) ist eine Simulation im Geiste des *preußischen Kriegsspiels*, insbesondere des *strategischen Kriegsspiels*, wie es von Hauptmann Meckel 1875 beschrieben wird. Sie bildet den Prozess der operativen Führung eines Feldzuges über mehrere Tage mit mehreren, getrennt marschierenden Heeresteilen ab. Wie im 19. Jahrhundert üblich steuern die Teinehmenden ihre Einheiten dabei mittels schriftlicher Befehle, die von einem Team von Vertrauten ausgewertet und prozessiert werden. Die Konfliktlösung wird von diesen Vertrauten durch einen gewichteten Würfelmechanismus abgewickelt, der von den preußischen Kriegsspiegelwerken inspiriert ist.
+
+## Szenario
+...
+
+## Ablauf und Regeln
+- Die Simulation läuft über 12 Tage.
+- Die beiden Teams *Blau* und *Rot* bilden die Stäbe in Paris bzw. London ab, denen die operative Führung des Vorstoßes auf London, bzw. der Verteidigung Londons obliegt.
+- Ziel von Team *Blau* ist es, innderhlab dieser 12 Tage London einzunehmen.
+- TDTL wird in Echtzeit mit einer Runde pro Tag gespielt.
+- Befehle der Teams *Blau* und *Rot* müssen täglich bis 23:59 (Bravo-Zeit) bei der Übungsleitung eigegangen sein.
+- Zusätzlich erstellt jedes Team täglich ein aktuelles Lagebild in einer vom Leitungsteam vorgegeben Vorlage. Auch das aktuelle Lagebild ist täglich der Leitung zu übermitteln.
+- Die Teams erhalten am Folgetag bis 18:00 die Rückmeldungen der ihnen unterstellten Verbände.
+- Jedes Team verschickt seine täglichen Befehle zusammengefasst in **nur einer** Email.
+- In dieser Befehlsemail sind die Befehle/Nachrichten für die einzelnen Adressaten separat aufgeführt. Diese Nachrichten müssen sichtbar in Absätzen voneinander getrennt sein. Jeder neue Befehl beginnt mit der Bezeichnung des **Empfängers und seiner vermuteten Position**. Für getrennt marschierende Verbände müssen separate Befehle erstellt werden (auch wenn sie wortgleich sind).
+
+## Hilfsmittel
+- Den Teilnehmenden werden Chaträume auf Slack zur Verfügung gestellt: Ein gemeinsamer für allgemeine Fragen, und ein geschlossener für jedes Team.
+
+
+## Zur Orientierung
+- Infanterie, Kavallerie und Artillerie
+- Fernmeldewesen im späten 19. Jahrundert
+- Marschtabllen
+- Frontbreiten
