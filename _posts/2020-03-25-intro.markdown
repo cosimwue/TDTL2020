@@ -45,8 +45,8 @@ Technischer Fortschritt ist ein wichtiger Aspekt des 19. Jahrhunderts, und er wi
 
 ### Richtwerte zu Marschleistungen und Frontbreiten
 |Formation           |Tagesmarschleistung     |max. Frontbreite in offenem Gelände|   Aufklärungsradius|
-|--------------------|--------------------------|-----------------------------------|--------------------|
-|Kavalleriebrigade   |30                        |1 km                               |10 km               |
-|Infanteriebrigade   |20                        |6 km                               |2 km                |
-|Infanteriedivision  |15                        |15 km                              |2 km                |
-|Armeekorps          |15                        |35 km                              |10 km               |
+|:------------------:|:------------------------:|:-------------------------------:|:------------------:|
+|Kavalleriebrigade   |30                        |1 km                             |10 km               |
+|Infanteriebrigade   |20                        |6 km                             |2 km                |
+|Infanteriedivision  |15                        |15 km                            |2 km                |
+|Armeekorps          |15                        |35 km                            |10 km               |
