@@ -42,11 +42,12 @@ Die taktische Rolle der **Artillerie** ist die Unterstützung der Infanterie bzw
 ### Verbindung und Logistik
 Technischer Fortschritt ist ein wichtiger Aspekt des 19. Jahrhunderts, und er wirkt sich auch auf Führung und Logistik militärischer Operationen aus. Eine zentrale Rolle spielen dabei die Eisenbahnlinien, auf denen große Truppenkontingente in kurzer Zeit verlegt werden können. Entlang dieser Linien verlaufen zudem Telegraphenverbindungen, mit deren Hilfe Kommunikation über große Entfernungen möglich ist (Abseits dieser Verbindungen ist man für Kommunikation noch weitgehend auf Meldereiter angewiesen). Darum sollten die Bahnlinien bei der Beurteilung der Topographie immer berücksichtigt werden.
 
-
-### Richtwerte zu Marschleistungen und Frontbreiten
-|Formation           |Tagesmarschleistung     |max. Frontbreite in offenem Gelände|   Aufklärungsradius|
-|:------------------:|:------------------------:|:-------------------------------:|:------------------:|
-|Kavalleriebrigade   |30                        |1 km                             |10 km               |
-|Infanteriebrigade   |20                        |6 km                             |2 km                |
-|Infanteriedivision  |15                        |15 km                            |2 km                |
-|Armeekorps          |15                        |35 km                            |10 km               |
+### Ein paar Richtwerte für die Planungen
+- Tagesmarschleistung einer Infanterieformation: 20 km
+- Tagesmarschleistung einer Kavallerieformation: 20 km
+- Aufklärungsradius ohne Kavallerieelement: 5 km
+- Aufklärungsradius der Kavallerie: 15 km
+- maximale Frontbreite eines Infanteriebataillons in offenem Gelände: 1 km
+- dasselbe für eine Brigade von 6 Bataillonen: 6,5 km
+- eine Infanteriedivision von 2 Brigaden + Artillerie: 15 km
+- ein Armeekorps von 2 Divisionen + Kavallerie und Artillerie: 35 km
