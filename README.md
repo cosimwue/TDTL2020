@@ -1,9 +1,5 @@
-# cosimwue.github.io
+# Twelve Days to London - April 2020
 
-This is the website of the University of Würzburg's Conflict Simulation Group. It is based on the [Flexible Jekyll Theme](https://github.com/artemsheludko/flexible-jekyll) by [Artem Sheludko](http://artemsheludko.com/).
+This repostory contains the Jekyll website of the *Twelve Days to London* April 2020 online Game, that is part of the cosimwue.github.io web page.
 
-## ToDos:
-- Initial content for "Conflict simulation in the classroom"
-- Fix iframe window sizes for mobile displays
-- Enlarge members section to include alumni and supporters, if they want
-- mention collaborating institutions
+
