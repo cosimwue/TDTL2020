@@ -11,9 +11,9 @@ tags:
 
 ## Der Englisch-Französische Krieg 
 
-***Korrespondent Howard Haroldson berichtet aus London.***
-
 ### Global Examiner, New York, 5. Juli
+
+***Korrespondent Howard Haroldson berichtet aus London.***
 
 Die Hauptstadt befindet sich in gespannter Erwartung der französischen Invasion. In einer Rede griff der Unterhausabgeordnete Algernon Smythe-Fythleswyth die Regierung aufs Schärfste an, weil ihre "kriegstreiberische" Politik der letzten Monate den Konflikt erst heraufbeschworen habe. Man müsse nun, so Smythe-Fythleswyth, auf die französische Republik zugehen und Zugeständnisse in der ägyptischen Frage machen. Auch wenn die Rede von einigen Unterhausmitgliedern mit Beifall bedacht wurde, scheint sie nicht die öffentliche Stimmung widerzuspiegeln; mehrfach kam es in den vergangenen Tagen zu spontanen Versammlungen, in denen Redner von sehr unterschiedlichem Talent an den Patriotismus ihrer Mitbürger appellierten. Gleichzeitig werden nordwestlich London weiterhin Truppen zu einer großen Armee zusammengezogen, um im Falle einer Invasion London zu schützen. Es ist ein offenes Geheimnis, daß es dabei immer wieder zu Verzögerungen kommt, weswegen die Bewohner Londons und Südenglands mit einer baldigen Invasion rechnen. Die Bereitschaft, zur Not selbst zu den Waffen zu greifen, scheint derzeit hoch zu sein. Eine französische Invasionsarmee könnte sich also nicht nur regulären Truppen der englischen Armee, sondern auch franctireurs gegenüber sehen. Ob allerdings schlecht bewaffnete und unausgebildete Zivilisten den, wie man hört, gut ausgebildeten französischen Truppen wirklich Widerstand leisten können, steht auf einem anderen Blatt.
 
@@ -23,9 +23,9 @@ Die Hauptstadt befindet sich in gespannter Erwartung der französischen Invasion
 
 ## Der Konflikt zwischen England und Frankreich 
 
-***unser Auslandskorrespondent Rudolf Sternberg berichtet.***
-
 ### Die Woche im Bild, Bern, 5. Juli
+
+***unser Auslandskorrespondent Rudolf Sternberg berichtet.***
 
 Der Hochsommer führt in England zum einen den Landadel zur London Season in die Hauptstadt, andererseits begeben sich viele Städter zur Erholung ans Meer. Ihr Korrespondent reihte sich wie schon in den vergangenen Jahren unter letztere ein und begab sich wie immer nach Brighton. Die Stimmung dort ist angespannt und von Mißtrauen geprägt; meine Versuche, einen Marineoffizier am Bahnhof von Brighton nach der allgemeinen Lage zu befragen, führten fast zu einer Festnahme durch die ihn begleitenden bewaffneten Soldaten. Immerhin ist das Stadtbild frei von Soldaten, auch die Promenade ist nicht durch Befestigungen verunstaltet. Verschiedenste Nachrichten schwirren umher. Mal wird von französischen Schiffsverbänden vor der Küste berichtet, mal heißt es, eine große Abteilung der Royal Navy könne bereits in den nächsten Tagen vor der Südküste eintreffen. In einem scheinen sich alle einig zu sein - auch wenn nach außen hin großer Patriotismus demonstriert wird, haben mir verschiedene Personen hinter vorgehaltener Hand versichert, daß sie wenig Vertrauen in die Armee besitzen. In vielen Gesprächen vernahm ich immer wieder die gleiche Kritik: Warum stehe die Armee nicht hier, wo die Landung unmittelbar bevorstehe, sondern verstecke sich nördlich der Themse? 
 
