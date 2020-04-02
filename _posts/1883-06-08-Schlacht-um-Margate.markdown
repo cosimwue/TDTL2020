@@ -23,22 +23,28 @@ Der moderne Krieg hat hier in Margate sein schreckliches Gesicht gezeigt. In den
 
 ![Karte]({{site.baseurl}}/assets/img/folkestone7jul.jpg)
 
-07. Juli
+## Pressemitteilung des HQ Home Defence Forces, London: General FitzMolesley gefallen
+
+### London, 07. Juli
 
 Pressemitteilung der Royal Army: 
 Bei einem Gefecht bei Folkestone in der Grafschaft Kent ist am gestrigen Tage Brigadier General Sir August FitzMolesley gefallen. Er und seine Männer, eine kleine Schar freiwilliger Patrioten, stellten sich einer ganzen französischen Division entgegen. Durch ihr heroisches Opfer haben sie den Heimatverteidigungskräften wertvolle Zeit erkauft, und so war ihre unausweichliche und dennoch aus freien Stücken gewählte taktische Niederlage doch ein strategischer Sieg!
 Sir August FitzMolesley, zuletzt Kommandeur der Volunteer Yeomanry Brigade in Kent, lernte früh das Kavalleriehandwerk bei den 19th Hussars. Er diente während der Mutiny in Indien unter Colonel James Kane Rowbotham und galt als geschickter Reiter und Jäger, Kavalier und Sportsmann. Er gab im Alter von 54 Jahren sein Leben für das Empire, sein Name wird in die Geschichte eingehen.
 
 
-07. Juli
+## Constant Vigilance!
+
+### Daily Telegraph, London 07. Juli
 
 Der Daily Telegraph, der Evening Standard und einige kleinere Blätter in England haben die sog. “Constant Vigilance” (engl. konstante Wachsamkeit) Kampagne ausgerufen. Sie fordern im großen Stil Unterstützung aus der Zivilbevölkerung bei der Abwehr der Invasion. Insbesondere was die Aktivitäten feindlicher Spione und Saboteure betrifft, so die Redakteure in einem gemeinsamen Aufruf, kann jeder aufmerksame Bürger entscheidende Beiträge leisten. Sie rufen die gesamte Bevölkerung dazu auf “je nach Vermögen mit Wachsamkeit oder Waffengewalt” zum Schutz des Vaterlandes beizutragen.
 
 ![Karte]({{site.baseurl}}/assets/img/southend7jul.jpg)
 
-07. Juli
+
 
 ## The Lioness of Southend Pier
+
+### London Times, 07. Juli
 
 ***unser Reporter Lysander Stumpsworth, gestern aus dem französisch-besetzten Southend-on-Sea entkommen, berichtet:***
 
@@ -50,6 +56,7 @@ Mit Schrecken sahen die Bewohner von Southend am Morgen des 6. Juli Schiffe vor 
 ## Der Kessel von Shoreham
 
 ### Die Woche im Bild, Bern, 7. Juli
+
 ***unser Auslandskorrespondent Rudolf Sternberg berichtet.***
 
 Es herrscht Volksfeststimmung in und um Brighton. Der beliebte Ferienort an der Südküste Englands ist an diesem sonnigen Julitag überfüllt mit neugierigen, von patriotischer Begeisterung erfüllten Menschen. Die lokale Bürgerwehr, die sich selbst stolz Brighton Gentlemen Defenders nennt, hat sich nach eigenen Angaben seit gestern immer wieder heftige Gefechte mit den im Nachbarort Shoream angelandeten französischen Armeekorps geliefert. Nachdem man sich gestern überwiegend “allein diesem übermächtigen Feind entgegen werfen” musste, wobei er unter “größten Mühen auf den Brückenkopf in Shoreham zurückgeworfen werden konnte”, haben die Gentlemen nun endlich eine ganze Brigade von Marinesoldaten aus Newhaven als Verstärkung erhalten. Gemeinsam mit den Truppen der Royal Army, die nun auf den Höhen nördlich der Küstenlinie und angeblich auch in Littlehampton stehen, haben sie den französischen “Brückenkopf” nun im beschaulichen Ferienort Shoreham eingekesselt. Allenthalben herrscht großer Optimismus, in den überfüllten Straßen laufen Frauen und Kinder und reichen den Kombattanten Tee, Kekse und Scones mit Clottet Cream, und die Männer sind zuversichtlich, dieser unsäglichen Invasion morgen ein Ende zu bereiten und die Franzosen “zurück ins Meer” treiben zu können. Danach, so Coriolanus Ferryman, der offizielle Presseoffizier der Brighton Gentlemen Defenders, werde man vielleicht nach Kent radeln und “den Australiern etwas Nachhilfe in Invasionsabwehr und Heimatverteidigung geben”. Während die willigen Heimatverteidiger den Angriff auf Shoreham vorbereiten treffen auch immer mehr Touristen aus den anderen Küstenorten hier ein. Auf den Hügeln nördlich von Shoreham sieht man neben den Stellungen der 5th Infantry Division immer mehr Schaulustige, die sich mit Sonnenschirmen und Picknickdecken einrichten. Ein wohlhabender Londoner Kaufmann der, wie die Leute hier erzählen, jedes Jahr den Sommer mit seiner Familie in Brighton verbringt, hat sich dort in den Hügeln sogar einen Zeltpavillon errichten lassen, unter dem er sich Roast Beef servieren lässt, während seine Gemahlin mit dem Opernglas die Lage um Shoreham beobachtet. Es bleibt abzuwarten, ob diese enthusiastischen Zuschauer das erwartete patriotische Spektakel auch geboten bekommen, ein schnelles und weitgehend unspektakuläres Ende der Invasion in Sussex ist zum jetzigen Zeitpunkt auch nicht auszuschließen.
