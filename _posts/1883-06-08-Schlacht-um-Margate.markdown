@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blutige Schlacht um Margate in Ostengland
+title: Blutiges Ringen um Margate
 date: 1883-06-07 13:32:20 +0300
 description: 
 img: i249-hi.jpg # Add image post (optional)
