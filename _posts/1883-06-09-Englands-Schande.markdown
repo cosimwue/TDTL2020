@@ -10,7 +10,7 @@ tags:
 
 ![Karte]({{site.baseurl}}/assets/img/margate7jul.jpg)
 
-## Der Schächter von Margate
+## Der Schlächter von Margate
 
 ### Global Examiner, New York, 8. Juli
 
