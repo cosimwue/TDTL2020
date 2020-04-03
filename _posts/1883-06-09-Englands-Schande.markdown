@@ -8,10 +8,11 @@ fig-caption: # Add figcaption (optional)
 tags: 
 ---
 
+![Karte]({{site.baseurl}}/assets/img/margate7jul.jpg)
 
 ## Der Schächter von Margate
 
-Global Examiner, New York, 8. Juli
+### Global Examiner, New York, 8. Juli
 
 ***Korrespondent Howard Haroldson berichtet aus London.***
 
@@ -19,6 +20,7 @@ Aus Margate erreichen mich wahrhaft verstörende Nachrichten. Wieder gebe ich de
 
 Der gestrige Tag sah zunächst einen großartigen Sieg englisch-französischer Waffen in Margate. Von Ramsgate aus war eine französische Division angetreten, um Margate einzunehmen und die vielen Landsleute, die in der Ruine des Gaswerks wie Sardinen eingepfercht sind, zu befreien. Tausende Soldaten stürmten über die Wiesen südöstlich der Stadt - ihrem Verderben entgegen. General de Bates ließ seine verborgen aufgestellte Artillerie erst feuern, als die Franzosen auf Gewehrschußweite heran waren. Die Wirkung des Feuers war fürchterlich; schließlich brachen die Franzosen ihren Angriff ab, die Felder zwischen Margate und Ramsgate sind übersät mit Leichen. Großartiges hat General de Bates in diesem noch jungen Konflikt bereits geleistet, doch seine Handlungen nach der Abwehr des französischen Angriffs haben diesen Tag zum Tag der Schande für die Queen’s Foreign Legion, ja zum Tag der Schande für das gesamte Empire werden lassen! Gegen Abend ließ er eine Abteilung der Legion am Cecil Square antreten, hielt eine flammende Rede, in der er der französischen Regierung auf so blumige Art und Weise den Tod wünschte, wie dies nur südländisches Temperament vermag. Zahlreiche Schaulustige liefen aus den zerstörten Häusern zusammen; zunächst bejubelten sie den Mann, der schon als Held von Margate gefeiert wurde, aber wohl eher als Schlächter von Margate in die Geschichte eingehen wird. Bald aber blieb ihnen ihr Jubel im Halse stecken. De Bates ließ insgesamt 7 gefangene französische Offiziere vorführen, darunter einen schwer verwundeten Brigadekommandeur, der auf einem Stuhl herangetragen wurde.  Diese mußten zunächst weitere Beschimpfungen über sich ergehen lassen, dann - horribile dictu - gab de Bates seinen Soldaten den Befehl, die Gefangenen zu erschießen. Anstatt sich diesem Wahnsinn zu verweigern, machten die Soldaten de Bates’ aus dem Ganzen ein makabres Schauspiel  - die Offiziere wurden einzeln erschossen, und nach jedem Schuß hallte ein lautes “Vive l’empereur” über den Platz! Die Abscheu über diese schändlichen Ereignisse läßt sich kaum in Worte fassen. Auch wenn die Franzosen im jetzigen Ringen unser Feind sind, so müssen wir uns doch fragen, ob wir angesichts solcher Ereignisse es überhaupt noch verdienen, den Sieg davonzutragen. Die Queen’s Foreign Legion hat Margate gerettet, doch war die Rettung diesen Preis wert? Die Öffentlichkeit der Welt wird über uns richten, und das Urteil wird hart sein. Man kann nur hoffen, daß das englische Oberkommando versuchen wird, künftige Exzesse dieser Art zu unterbinden.
 
+![Karte]({{site.baseurl}}/assets/img/folkestone7jul.jpg)
 
 ## Französische Erfolge in der Grafschaft Kent
 
@@ -34,6 +36,8 @@ Paris ist in Aufregung. Erste Nachrichten von der Front in England haben die Hau
 ### London Times, London, 8. Juli.
 
 Im Oberhaus kam es gestern zu einer hitzigen Diskussion, als der Abgeordnete Lord Charles Elderhampton die sofortige Absetzung von General de Bates forderte. Gegenstimmen von Vertretern beider großer Parteien verteidigten den Exilfranzosen als “Helden von Margate” und argumentieren, der Pressebericht aus Kent stelle die Ereignisse vermutlich nicht richtig dar und versäume es gewiß, die zwingenden Umstände vor Ort korrekt wieder zu geben. “Wann”, entgegnete ihm Elderhampton, “haben wir aufgehört Gentlemen zu sein? Wie sehr verängstigt diese armselige Invasion (wörtlich gebrauchte er die Wendung -pathetic excuse of an invasion-) manche in diesem Land, daß sie solch ehrloses Handeln für gerechtfertigt halten? Und überhaupt, seit wann dulden wir, daß Ausländer ihre internen Händel mit barbarischen Methoden auf unserem Boden austragen?” Das Oberhaus bleibt in der deBates-Frage über die Parteigrenzen hinweg gespalten. Eine schnelle Absetzung des Generals könnte es unter den momentan gegebenen Umständen ohnehin kaum durchsetzen.
+
+![Karte]({{site.baseurl}}/assets/img/brighton7jul.jpg)
 
 ## Die Schlacht bei Brighton geht weiter
 
