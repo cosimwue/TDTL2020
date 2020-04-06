@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Siegestaumel auf beiden Seiten
-date: 1883-06-09 13:32:20 +0300
+date: 1883-07-09 13:32:20 +0300
 description: 
 img: wounded.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
