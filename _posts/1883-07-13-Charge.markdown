@@ -7,7 +7,7 @@ img: charge.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: 
 ---
-+++ Die Ritter der schweren Brigade siegen bei Wickham und Chelmsford. +++ Französische Division bei Chelmsford vernichtet. +++ Franzosen am Übergang über den River Medway gehindert +++ 
+Die Meldungen des Tages: +++ Die Ritter der schweren Brigade siegen bei Wickham und Chelmsford. +++ Französische Division bei Chelmsford vernichtet. +++ Franzosen am Übergang über den River Medway gehindert +++ 
 
 ![Karte]({{site.baseurl}}/assets/img/chelmsford13jul.jpg)
 
