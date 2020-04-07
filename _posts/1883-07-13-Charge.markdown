@@ -9,13 +9,15 @@ tags:
 ---
 +++ Die Ritter der schweren Brigade siegen bei Wickham und Chelmsford. +++ Französische Division bei Chelmsford vernichtet. +++ Franzosen am Übergang über den River Medway gehindert +++ 
 
+![Karte]({{site.baseurl}}/assets/img/chelmsford13jul.jpg)
+
 ## Die Hufe des Zorns
 
 ### Daily Telegraph, London, 12. Juli
 
 Wie Donnerhall dröhnen fünfzehnhundert fliegende Hufe in der Ebene von Chelmsford. Die Invasoren klammern sich zitternd an ihre Gewehre. Und das hier ist nicht Minden oder Imkerman, wo unsere Thin Red Line stoisch den Ansturm der Kavallerie erwartet. Nein, hier sind unsere Jungs die auf den Pferden, der Feind rottet sich in einem feigen Caree zusammen. Aber das hilft ihm nicht. Anthony Boyle, Viscount Mallingham, prescht mit erhobenen Schwerte voran, neben ihm in gleißendem Rot die Dragoon Guards, die in dieser Heavy Brigade die erste Reihe bilden. Gestern noch haben sie in einer blutigen Schlacht bei Wickham die Franzosen das Fürchten gelehrt, heute sind sie hier vor Chelmsford angetreten. Heute reiten sie wieder, die Ritter des Empires, für den heiligen Zorn der Nation, den feigen Invasoren zum Verderben, wenn es sein muß, bis ans Ende der Welt. Das blaue Viereck zieht sich immer weiter zusammen. Feige Schüsse reißen tapfere junge Männer aus ihren Sätteln, bringen stolze Schlachtrösser zu Fall. Doch all das ist vergebens. Anthony Boyle, Viscount Mallingham, reitet allen voran, lässt selbst das wehende Banner der Dragoon Guards weit hinter sich. Ein letztes ängstliches Aufstöhnen geht durch die Reihen den Franzosen und dann donnern die Hufe des Zorns über sie hinweg...
 
-
+![Karte]({{site.baseurl}}/assets/img/dover13jul.jpg)
 
 ## Aus dem freien Dover
 
