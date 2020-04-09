@@ -7,7 +7,7 @@ img: i325-hi.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: 
 ---
-Die Meldungen des Tages: +++ Straßenkämpfe in Hackney +++ Royal Army räumt südliches Themseufer. +++ Mallingham strikes again: Dritter Sieg in 5 Tagen. +++ Invasionsarmee aus Kent nur noch 20 km von London entfernt. +++ 
+Die Meldungen des Tages: +++ Straßenkämpfe in Hackney +++ Royal Army räumt südliches Themseufer. +++ Mallingham strikes again: Reitergeneral erringt dritten Sieg in 5 Tagen. +++ Invasionsarmee aus Kent nur noch 20 km von London entfernt. +++ 
 
 ## Der Krieg erreicht die Hauptstadt
 
