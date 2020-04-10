@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Das Wunder von Hackney
-date: 1883-07-15 13:32:20 +0300
+date: 1883-07-16 13:32:20 +0300
 description: 
 img: The_Sepoy_revolt_at_Meerut.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
@@ -22,7 +22,7 @@ Der Dank der Nation gilt den Verteidigern Londons und Viscount Mallingham, die i
 
 ## Zwischen Hammer und Amboß
 
-### Daily Telegraph, London, 15. Juli
+### Daily Telegraph, London, 16. Juli
 
 Mit aufgepflanzten Bajonetten stürmten sie los. Sie stürmten durch die Straßen, und sie droschen auf die feigen Invasoren ein, wo immer sie sie trafen. Ein Hauen und Stechen. Und der Feind wich zurück - weiter und weiter - bis hinaus vor die Stadt. 
 Und dort, draußen, auf der Ebene von Barking, hielt Anthony Boyle, der Viscount Mallingham, noch einmal seine tapfere Reiterschar an. Und seine Stimme hallte über die Ebene, so laut und klar, daß selbst der entfernteste seiner streitbaren Ritter ihn noch vernehmen konnte. Und so sprach der Viscount Mallingham: “So weit sind wir gemeinsam geritten, Männer Englands, viele Kämpfe haben wir gemeinsam bestanden. Folgt mir heute noch ein einziges Mal. Für England! Für Gott und die Königin! Vorwärts!” Er gab seinem Pferd die Sporen und preschte voran, und aus hundert in der Sonne glitzernden Trompeten erschallte das Signal. Und Mallingham, all seinen Männern voran, fuhr wie das flammende Schwert der Cherubim in durch die Reihen der Feinde. Und blankes Entsetzen kam über die Invasoren. Aus zitternden Händen ließen sie ihre Waffen fallen, kehrten ihre Rücken zur Flucht. Und sie fielen in Scharen unter den Schwertern aus dem Osten, und unter den Bajonetten aus dem Westen. Und Mallinghams Männer bildeten einen Hammer, Dappers Truppen aus der Stadt kommend den Amboß; und die Streitmacht der Invasoren ward zwischen ihnen zermalmt! Und so trafen sich, auf einem kleinen Hügel bei Little Ilford der Viscount Mallingham und Papa Dapper, und reichten sich erschöpft die Hände. 
@@ -37,7 +37,7 @@ Dieses unehrenhafte Verhalten kann nur gesühnt werden, wenn jeder treue Brite n
 
 ## Die Schlacht um London
 
-### Global Examiner, New York, 15. Juli
+### Global Examiner, New York, 16. Juli
 
 ***Aus London berichtet unser Korrespondent Robert Woolworth.***
 
