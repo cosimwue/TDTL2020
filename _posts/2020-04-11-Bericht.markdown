@@ -1,0 +1,243 @@
+---
+layout: post
+title: Ablauf
+date: 2020-04-11 13:32:20 +0300
+description: 
+img: # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: 
+---
+
+
+## Ausgangsinformationen
+
+**Order of Battle**
+
+- [Vorgeschichte](https://cosimwue.github.io/TDTL2020/1883/07/05/Kampf-im-Kanal.html)
+- [Frankreich]({{site.baseurl}}/assets/img/OOB_Frankreich.pdf)
+- [England]({{site.baseurl}}/assets/img/OOB_England.pdf)
+
+- [Häfen]({{site.baseurl}}/assets/img/Ports.pdf)
+- [Bahnhöfe]({{site.baseurl}}/assets/img/Stations.pdf)
+- [Spionage]({{site.baseurl}}/assets/img/Spionage.pdf)
+
+
+
+## Ablauf
+
+### Tag 1 - 5. Juli 1883
+
+- [Pressemeldungen](https://cosimwue.github.io/TDTL2020/1883/07/05/Ruhe-vor-dem-Sturm.html)
+
+#### Frankreich
+
+- [Befehle]({{site.baseurl}}/assets/img/Befehl_BLAU_Tag_1.pdf)
+
+
+#### England
+
+- [Lagebild]({{site.baseurl}}/assets/img/Karte_ROT_Tag_1.pdf)
+- [Befehle]({{site.baseurl}}/assets/img/Befehl_ROT_Tag_1.txt)
+
+
+### Tag 2 - 6. Juli 1883
+
+- [Pressemeldungen](https://cosimwue.github.io/TDTL2020/1883/07/06/Invasion.html)
+
+#### Frankreich
+
+- [Meldungen]({{site.baseurl}}/assets/img/Meldungen_BLAU_Tag_1.txt)
+- [Lagebild]({{site.baseurl}}/assets/img/Karte_BLAU_Tag_2.pdf)
+- [Befehle]({{site.baseurl}}/assets/img/Befehl_BLAU_Tag_2.pdf)
+
+
+#### England
+
+- [Meldungen]({{site.baseurl}}/assets/img/Meldungen_ROT_Tag_1.txt)
+- [Lagebild]({{site.baseurl}}/assets/img/Karte_ROT_Tag_2.pdf)
+- [Befehle]({{site.baseurl}}/assets/img/Befehl_ROT_Tag_2.txt)
+
+
+### Tag 3 - 7. Juli 1883
+
+- [Pressemeldungen](https://cosimwue.github.io/TDTL2020/1883/07/07/Schlacht-um-Margate.html)
+
+#### Frankreich
+
+- [Meldungen]({{site.baseurl}}/assets/img/Meldungen_BLAU_Tag_2.txt)
+- [Lagebild]({{site.baseurl}}/assets/img/Karte_BLAU_Tag_3.pdf)
+- [Befehle]({{site.baseurl}}/assets/img/Befehl_BLAU_Tag_3.pdf)
+
+
+#### England
+
+- [Meldungen]({{site.baseurl}}/assets/img/Meldungen_ROT_Tag_2.txt)
+- [Lagebild]({{site.baseurl}}/assets/img/Karte_ROT_Tag_3.pdf)
+- [Befehle]({{site.baseurl}}/assets/img/Befehl_ROT_Tag_3.txt)
+
+
+### Tag 4 - 7. Juli 1883
+
+- [Pressemeldungen](https://cosimwue.github.io/TDTL2020/1883/07/08/Englands-Schande.html)
+
+#### Frankreich
+
+- [Meldungen]({{site.baseurl}}/assets/img/Meldungen_BLAU_Tag_3.txt)
+- [Lagebild]({{site.baseurl}}/assets/img/Karte_BLAU_Tag_4.pdf)
+- [Befehle]({{site.baseurl}}/assets/img/Befehl_BLAU_Tag_4.pdf)
+
+
+#### England
+
+- [Meldungen]({{site.baseurl}}/assets/img/Meldungen_ROT_Tag_3.txt)
+- [Lagebild]({{site.baseurl}}/assets/img/Karte_ROT_Tag_4.pdf)
+- [Befehle]({{site.baseurl}}/assets/img/Befehl_ROT_Tag_4.txt)
+
+
+
+### Tag 5 - 8. Juli 1883
+
+- [Pressemeldungen](https://cosimwue.github.io/TDTL2020/1883/07/09/Siegestaumel.html)
+
+#### Frankreich
+
+- [Meldungen]({{site.baseurl}}/assets/img/Meldungen_BLAU_Tag_4.txt)
+- [Lagebild]({{site.baseurl}}/assets/img/Karte_BLAU_Tag_5.pdf)
+- [Befehle]({{site.baseurl}}/assets/img/Befehl_BLAU_Tag_5.pdf)
+
+
+#### England
+
+- [Meldungen]({{site.baseurl}}/assets/img/Meldungen_ROT_Tag_4.txt)
+- [Lagebild]({{site.baseurl}}/assets/img/Karte_ROT_Tag_5.pdf)
+- [Befehle]({{site.baseurl}}/assets/img/Befehl_ROT_Tag_5.txt)
+
+
+
+### Tag 6 - 9. Juli 1883
+
+- [Pressemeldungen](https://cosimwue.github.io/TDTL2020/1883/07/10/Aus-Kent.html)
+
+#### Frankreich
+
+- [Meldungen]({{site.baseurl}}/assets/img/Meldungen_BLAU_Tag_5.txt)
+- [Lagebild]({{site.baseurl}}/assets/img/Karte_BLAU_Tag_6.pdf)
+- [Befehle]({{site.baseurl}}/assets/img/Befehl_BLAU_Tag_6.pdf)
+
+
+#### England
+
+- [Meldungen]({{site.baseurl}}/assets/img/Meldungen_ROT_Tag_5.txt)
+- [Lagebild]({{site.baseurl}}/assets/img/Karte_ROT_Tag_6.pdf)
+- [Befehle]({{site.baseurl}}/assets/img/Befehl_ROT_Tag_6.txt)
+
+
+
+### Tag 7 - 10. Juli 1883
+
+- [Pressemeldungen](https://cosimwue.github.io/TDTL2020/1883/07/11/Polizeiskandal.html)
+
+#### Frankreich
+
+- [Meldungen]({{site.baseurl}}/assets/img/Meldungen_BLAU_Tag_6.txt)
+- [Lagebild]({{site.baseurl}}/assets/img/Karte_BLAU_Tag_7.pdf)
+- [Befehle]({{site.baseurl}}/assets/img/Befehl_BLAU_Tag_7.pdf)
+
+
+#### England
+
+- [Meldungen]({{site.baseurl}}/assets/img/Meldungen_ROT_Tag_6.txt)
+- [Lagebild]({{site.baseurl}}/assets/img/Karte_ROT_Tag_7.pdf)
+- [Befehle]({{site.baseurl}}/assets/img/Befehl_ROT_Tag_7.txt)
+
+
+### Tag 8 - 11. Juli 1883
+
+- [Pressemeldungen](https://cosimwue.github.io/TDTL2020/1883/07/12/Charge.html)
+
+#### Frankreich
+
+- [Meldungen]({{site.baseurl}}/assets/img/Meldungen_BLAU_Tag_7.txt)
+- [Lagebild]({{site.baseurl}}/assets/img/Karte_BLAU_Tag_8.pdf)
+- [Befehle]({{site.baseurl}}/assets/img/Befehl_BLAU_Tag_8.pdf)
+
+
+#### England
+
+- [Meldungen]({{site.baseurl}}/assets/img/Meldungen_ROT_Tag_7.txt)
+- [Lagebild]({{site.baseurl}}/assets/img/Karte_ROT_Tag_8.pdf)
+- [Befehle]({{site.baseurl}}/assets/img/Befehl_ROT_Tag_8.txt)
+
+
+
+### Tag 9 - 12. Juli 1883
+
+- [Pressemeldungen](https://cosimwue.github.io/TDTL2020/1883/07/13/Hannibal-ante-portas.html)
+
+#### Frankreich
+
+- [Meldungen]({{site.baseurl}}/assets/img/Meldungen_BLAU_Tag_8.txt)
+- [Lagebild]({{site.baseurl}}/assets/img/Karte_BLAU_Tag_9.pdf)
+- [Befehle]({{site.baseurl}}/assets/img/Befehl_BLAU_Tag_9.pdf)
+
+
+#### England
+
+- [Meldungen]({{site.baseurl}}/assets/img/Meldungen_ROT_Tag_8.txt)
+- [Lagebild]({{site.baseurl}}/assets/img/Karte_ROT_Tag_9.pdf)
+- [Befehle]({{site.baseurl}}/assets/img/Befehl_ROT_Tag_9.txt)
+
+
+### Tag 10 - 13. Juli 1883
+
+- [Pressemeldungen](https://cosimwue.github.io/TDTL2020/1883/07/14/Krieg-in-London.html)
+
+#### Frankreich
+
+- [Meldungen]({{site.baseurl}}/assets/img/Meldungen_BLAU_Tag_9.txt)
+- [Lagebild]({{site.baseurl}}/assets/img/Karte_BLAU_Tag_10.pdf)
+- [Befehle]({{site.baseurl}}/assets/img/Befehl_BLAU_Tag_10.pdf)
+
+
+#### England
+
+- [Meldungen]({{site.baseurl}}/assets/img/Meldungen_ROT_Tag_9.txt)
+- [Lagebild]({{site.baseurl}}/assets/img/Karte_ROT_Tag_10.pdf)
+- [Befehle]({{site.baseurl}}/assets/img/Befehl_ROT_Tag_10.txt)
+
+
+### Tag 11 - 14. Juli 1883
+
+- [Pressemeldungen](https://cosimwue.github.io/TDTL2020/1883/07/16/Wunder-von-Hackney.html)
+
+#### Frankreich
+
+- [Meldungen]({{site.baseurl}}/assets/img/Meldungen_BLAU_Tag_10.txt)
+- [Lagebild]({{site.baseurl}}/assets/img/Karte_BLAU_Tag_11.pdf)
+- [Befehle]({{site.baseurl}}/assets/img/Befehl_BLAU_Tag_11.pdf)
+
+
+#### England
+
+- [Meldungen]({{site.baseurl}}/assets/img/Meldungen_ROT_Tag_10.txt)
+- [Lagebild]({{site.baseurl}}/assets/img/Karte_ROT_Tag_11.pdf)
+- [Befehle]({{site.baseurl}}/assets/img/Befehl_ROT_Tag_11.txt)
+
+
+### Tag 12 - 15. Juli 1883
+
+- [Pressemeldungen](https://cosimwue.github.io/TDTL2020/1883/07/17/Waffenstillstand.html)
+
+#### Frankreich
+
+- [Meldungen]({{site.baseurl}}/assets/img/Meldungen_BLAU_Tag_11.txt)
+- [Befehle]({{site.baseurl}}/assets/img/Befehl_BLAU_Tag_12.pdf)
+
+
+#### England
+
+- [Meldungen]({{site.baseurl}}/assets/img/Meldungen_ROT_Tag_11.txt)
+- [Lagebild]({{site.baseurl}}/assets/img/Karte_ROT_Tag_12.pdf)
+- [Befehle]({{site.baseurl}}/assets/img/Befehl_ROT_Tag_12.txt)
+
+
