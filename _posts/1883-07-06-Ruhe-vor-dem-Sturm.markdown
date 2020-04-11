@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kommt der Krieg jetzt nach England?
+title: Tag 1 - Kommt der Krieg jetzt nach England?
 date: 1883-07-05 15:32:20 +0300
 description: 
 img: farewell.jpg # Add image post (optional)

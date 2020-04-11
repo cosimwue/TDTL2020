@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Das Wunder von Hackney
+title: Tag 11 - Das Wunder von Hackney
 date: 1883-07-16 13:32:20 +0300
 description: 
 img: The_Sepoy_revolt_at_Meerut.jpg # Add image post (optional)

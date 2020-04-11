@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blutiges Ringen um Margate
+title: Tag 3 - Blutiges Ringen um Margate
 date: 1883-07-07 13:32:20 +0300
 description: 
 img: i249-hi.jpg # Add image post (optional)
