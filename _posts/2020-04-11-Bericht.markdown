@@ -3,15 +3,43 @@ layout: post
 title: Ablauf
 date: 2020-04-11 13:32:20 +0300
 description: 
-docs: # Add image post (optional)
+docs: map.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: 
 ---
 
 
-## Ausgangsinformationen
+## Ausgangsszenario
 
-**Order of Battle**
+Kräfteverhältnis ca. 1:1,75
+
+### England
+- ca. **61.800 Mann**
+- 55 Bataillone Infanterie
+- 32 Eskadronen Kavallerie
+- 42 Batterien Artillerie
+- Struktur
+  - 1st Corps
+  - 2nd (Colonial) Corps
+  - Yeomanry Cavalry Brigade
+  - 6 Regional Brigades
+
+
+### Frankreich
+- ca. **108.000 Mann**
+- 104 Bataillone Infanterie
+- 32 Eskadronen Kavallerie
+- 32 Batterien Artillerie
+- Struktur
+  - 1re Corps
+  - 2de Corps
+  - 3e Corps
+  - 7e Division de Cavallerie
+  - 8e Division de Cavallerie
+  - Division de Marine
+
+
+### Order of Battle
 
 - [Vorgeschichte](https://cosimwue.github.io/TDTL2020/1883/07/05/Kampf-im-Kanal.html)
 - [Frankreich]({{site.baseurl}}/assets/docs/OOB_Frankreich.pdf)
@@ -27,6 +55,8 @@ tags:
 
 ### Tag 1 - 5. Juli 1883
 
+![Karte]({{site.baseurl}}/assets/img/Tag1.jpg)
+
 - [Pressemeldungen](https://cosimwue.github.io/TDTL2020/1883/07/05/Ruhe-vor-dem-Sturm.html)
 
 #### Frankreich
@@ -41,6 +71,7 @@ tags:
 
 
 ### Tag 2 - 6. Juli 1883
+![Karte]({{site.baseurl}}/assets/img/Tag2.jpg)
 
 - [Pressemeldungen](https://cosimwue.github.io/TDTL2020/1883/07/06/Invasion.html)
 
@@ -59,6 +90,7 @@ tags:
 
 
 ### Tag 3 - 7. Juli 1883
+![Karte]({{site.baseurl}}/assets/img/Tag3.jpg)
 
 - [Pressemeldungen](https://cosimwue.github.io/TDTL2020/1883/07/07/Schlacht-um-Margate.html)
 
@@ -77,6 +109,7 @@ tags:
 
 
 ### Tag 4 - 7. Juli 1883
+![Karte]({{site.baseurl}}/assets/img/Tag4.jpg)
 
 - [Pressemeldungen](https://cosimwue.github.io/TDTL2020/1883/07/08/Englands-Schande.html)
 
@@ -96,6 +129,7 @@ tags:
 
 
 ### Tag 5 - 8. Juli 1883
+![Karte]({{site.baseurl}}/assets/img/Tag5.jpg)
 
 - [Pressemeldungen](https://cosimwue.github.io/TDTL2020/1883/07/09/Siegestaumel.html)
 
@@ -115,6 +149,7 @@ tags:
 
 
 ### Tag 6 - 9. Juli 1883
+![Karte]({{site.baseurl}}/assets/img/Tag6.jpg)
 
 - [Pressemeldungen](https://cosimwue.github.io/TDTL2020/1883/07/10/Aus-Kent.html)
 
@@ -134,6 +169,7 @@ tags:
 
 
 ### Tag 7 - 10. Juli 1883
+![Karte]({{site.baseurl}}/assets/img/Tag7.jpg)
 
 - [Pressemeldungen](https://cosimwue.github.io/TDTL2020/1883/07/11/Polizeiskandal.html)
 
@@ -152,6 +188,7 @@ tags:
 
 
 ### Tag 8 - 11. Juli 1883
+![Karte]({{site.baseurl}}/assets/img/Tag8.jpg)
 
 - [Pressemeldungen](https://cosimwue.github.io/TDTL2020/1883/07/12/Charge.html)
 
@@ -171,6 +208,7 @@ tags:
 
 
 ### Tag 9 - 12. Juli 1883
+![Karte]({{site.baseurl}}/assets/img/Tag9.jpg)
 
 - [Pressemeldungen](https://cosimwue.github.io/TDTL2020/1883/07/13/Hannibal-ante-portas.html)
 
@@ -189,6 +227,7 @@ tags:
 
 
 ### Tag 10 - 13. Juli 1883
+![Karte]({{site.baseurl}}/assets/img/Tag10.jpg)
 
 - [Pressemeldungen](https://cosimwue.github.io/TDTL2020/1883/07/14/Krieg-in-London.html)
 
@@ -207,6 +246,7 @@ tags:
 
 
 ### Tag 11 - 14. Juli 1883
+![Karte]({{site.baseurl}}/assets/img/Tag11.jpg)
 
 - [Pressemeldungen](https://cosimwue.github.io/TDTL2020/1883/07/16/Wunder-von-Hackney.html)
 
@@ -225,6 +265,7 @@ tags:
 
 
 ### Tag 12 - 15. Juli 1883
+![Karte]({{site.baseurl}}/assets/img/Tag12.jpg)
 
 - [Pressemeldungen](https://cosimwue.github.io/TDTL2020/1883/07/17/Waffenstillstand.html)
 
@@ -239,5 +280,23 @@ tags:
 - [Meldungen]({{site.baseurl}}/assets/docs/Meldungen_ROT_Tag_11.txt)
 - [Lagebild]({{site.baseurl}}/assets/docs/Karte_ROT_Tag_12.pdf)
 - [Befehle]({{site.baseurl}}/assets/docs/Befehl_ROT_Tag_12.txt)
+
+
+## Ergebnis
+
+7 Französische Siege in 26 Schlachten und Gefechten
+
+Frankreich:
+- 12520 Tote
+- 13480 Verwundete
+- 37820 Vermisste
+
+England:
+
+- 8715 Tote
+- 9965 Verwundete
+- 13950 Vermisste
+
+
 
 
