@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Operationsverlauf und Ergebnis
+title: Die Invasion von 1883 - Ein Bericht
 date: 2020-04-11 13:32:20 +0300
 description: 
 img: EnglandMap.jpg # Add image post (optional)
@@ -8,12 +8,18 @@ fig-caption: # Add figcaption (optional)
 tags: 
 ---
 
+*Twelve Days to London* ist eine Konfliktsimulation auf der operativen Führungsebene inspiriert das alte *Strategische Kriegsspiel* der preußischen Armee. Den Hintergrund für das Szenario bilden die sog. *invasion scares* im England des späten 19. Jahrhunderts, die Befürchtung, England könne leicht einer Invasion durch eine andere europäische Großmacht zum Opfer fallen. Diese Vorstellung prägte schon im 19. Jahrhundert die Kriegsspielszenarien, die in der britischen Armee durchexerziert wurden. Das vorliegende Szenario wurde im April 2020 unter Leitung der *Conflict Simulation Group* mit Studierenden der Helmut-Schmidt-Universität der Bundeswehr in Hamburg durchgeführt.
 
-## Ausgangsszenario
+## Das Szenario
+### Vorgeschichte
+Im Juni 1882 weitet sich die Ägyptenkrise in der Folge der   englischen Bombardierung von Alexandria zu einem anglo-französischen Konflikt. Die neueradikalnationalistische Regierung Frankreichs beginnt im Januar 1883 zunächst im Geheimen mit Kriegsvorbereitungen, die ab März auch der englischen Seite nicht verborgen bleiben; entsprechende Vorbereitungen auf englischer Seite bleiben allerdings aus. Als Frankreich schließlich am  1.  Juni 1883 England den Krieg erklärt, befindet sich der größte  Teil der *Royal Navy* im Mittelmeer, die ohnehin vergleichsweise schwache *Channel Squadron* wird durch einen überraschenden Angriff französischer Torpedoboote am 20. Juni 1883 größtenteils ausgeschaltet. So bietet sich der französischen Führung ein Zeitfenster für eine Landung an der englischen Südküste, um in einem schnellen Schlag London einzunehmen und so den Krieg für sich zu entscheiden. Doch spätestens, wenn die Verbände der *Royal Navy* aus dem Mittelmeer eintreffen und den Kanal zurück erobern während zeitgleich Verstärkungen aus dem Norden in Südengland eintreffen, wird eine Invasionsarmee ohne Nachschub aus Frankreich keine Aussicht auf Erfolg mehr haben. Dem *État-Major* in Paris bleiben geschätzte 12 Tage London einzunehmen...
 
-Kräfteverhältnis ca. 1:1,75
+Links: [Vorgeschichte](https://cosimwue.github.io/TDTL2020/1883/07/05/Kampf-im-Kanal.html)
 
-### England
+### Kräfteverhältnisse
+Das numerische Kräfteverhältnis zu Beginn der Invasion war etwa **1:1,75** zugunsten der französischen Invasionsstreitmacht, wobei jede Seite jeweils etwa ein Armeekorps mehr zum Einsatz brachte, als der Gegenseite bekannt war. Dem numerischen Ungleichgewicht gegenüber stand zum einen der Zeitdruck, unter dem die französischen Kräfte operieren mussten, und ein Ungleichgewicht an Infrastruktur und Informationsquellen zugunsten der Verteidiger: Die Englische Seite hatte zu Beginn die volle Kontrolle über das Eisenbahn- und Telegraphennetz, und die Aussicht darauf, wichtige Aufklärungsinformationen auch von der Bevölkerung zu erhalten.
+
+#### [England]({{site.baseurl}}/assets/docs/OOB_England.pdf)
 - ca. **61.800 Mann**
 - 55 Bataillone Infanterie
 - 32 Eskadronen Kavallerie
@@ -24,8 +30,7 @@ Kräfteverhältnis ca. 1:1,75
   - Yeomanry Cavalry Brigade
   - 6 Regional Brigades
 
-
-### Frankreich
+#### [Frankreich]({{site.baseurl}}/assets/docs/OOB_Frankreich.pdf)
 - ca. **108.000 Mann**
 - 104 Bataillone Infanterie
 - 32 Eskadronen Kavallerie
@@ -39,17 +44,18 @@ Kräfteverhältnis ca. 1:1,75
   - Division de Marine
 
 
-### Order of Battle
-
-- [Vorgeschichte](https://cosimwue.github.io/TDTL2020/1883/07/05/Kampf-im-Kanal.html)
-- [Frankreich]({{site.baseurl}}/assets/docs/OOB_Frankreich.pdf)
-- [England]({{site.baseurl}}/assets/docs/OOB_England.pdf)
-
+#### Andere Assets:
 - [Häfen]({{site.baseurl}}/assets/docs/Ports.pdf)
 - [Bahnhöfe]({{site.baseurl}}/assets/docs/Stations.pdf)
 - [Spionage]({{site.baseurl}}/assets/docs/Spionage.pdf)
 
+## Absichten und Pläne
 
+### England
+Team Rot konzentrierte sich am Anfang vor allem darauf, den Raum südlich von London in der Fläche und entlang der gesamten Küstenlinie zu verteidigen. Landungsversuche sollte möglichst schon an gleich an der Küste zurückgeschlagen werden, eine weitgehend gleichmäßige Verteilung der Kräfte sicher stellen, daß sich keine Invasionsstreitmacht ungehindert oder gar unbemerkt durch Südengland bewegen kann. Das *1st Corps* wurde hierzu in seine Brigaden aufgeteilt, die zunächst im Hinterland von Sussex verteilt wurde. Die beiden Divisionen des *2nd Corps* beorderte man ins Hinterland von Kent. Die verschiedenen Miliz- und Freiwilligenbrigaden sollten die erste Verteidigungslinie direkt an der Küste bilden. In London selbst verblieb nur eine schwache Reserve.
+
+### Frankreich
+Team Blau plante in insgesamt 4 Regionen gleichzeitig zu landen und den Feind so zur Aufteilung seiner Kräfte zu verleiten. Als primäre Gefahr für eigenen Plan wurde das Verbleiben starker feindlicher Reserven in London selbst gesehenen, durch mehrere möglichst überzeugende Scheinangriffe sollte der Gegner zum herausführen dieser Reserven aus London verleitet werden. Den Angriffsschwerpunkt setzten die Franzosen mit der Landung von 2 Armeekorps und einer Kavalleriedivision in Eastkent, die von dort aus entlang des südlichen Themseufers auf London zumarschieren sollten. Einen sekundären Schwerpunkt bildete die Landung eines weiteren vollständigen Armeekorps unmittelbar nördlich der Themsemündung. Noch weiter nördlich, bei Clacton, sollte eine Marinedivision an Land gehen, und Operationen gegen von Norden anrückende englische Verstärkungen abschirmen. Zur Ablenkung des Gegners sollte eine Kavalleriedivision an der Südküste landen, sich von dort möglichst auffällig Richtung London bewegen und Feindkräfte binden.
 
 ## Ablauf
 
@@ -57,36 +63,39 @@ Kräfteverhältnis ca. 1:1,75
 
 ![Karte]({{site.baseurl}}/assets/img/Tag1.jpg)
 
+#### Französische Landungen.
+Am Morgen gehen französische Truppen in Shoreham, Folkestone,  Ramsgate, Margate, Southend, Shoeburyness und Clactonan Land. Bis auf Margate gelingen alle Landungen ohne Gegenwehr oder größere  Schwierigkeiten. Eine Ausnahme bildet Margate; dort trifft am Mittag die Queen’s French Legion ein.
+
+#### Schlacht von Margate.
+Die  Queen’s French Legion dringt im Westen und Südwesten in die  Stadt ein, in der gerade Teile der ersten Brigade der 12. DI  landen. Die französischen Truppen werden überrascht, der  Divisionskommandeur ist zwar bereits an Land, die Divisionsartillerie allerdings noch nicht. Nach heftigen Kämpfen wird die französische Brigade vollständig vernichtet, der  Divisionskommandeur gerät in englische Gefangenschaft. Die französischen Verluste sind mit 1.500 Toten und 3.000 Verwundeten erheblich, dazu geraten weitere 2.500 Soldaten in englische Gefangenschaft; die Queen’s French Legion erbeutet zudem größere Mengen an  Waffen und  Munition.  Mit dem  erbeuteten  Material wird  in  den  folgenden Tagen ein Freiwilligenbataillon ausgerüstet, das die Queen’s French Legion verstärkt.
+
+#### 1. Gefecht von Folkestone.
+Nachdem  die  erste  Brigade  der  7e  DC  in  Folkestone  an  Land  gegangen  ist, dringen Angehö-rige der Yeomanry Brigade in die Außenbezirke der Stadt ein. Es kommt zu einzelnen Gefechten  in den Vororten. Beide Seiten kämpfen zu Fuß ungewohntem Gelände, nach etwa einer Stunde gewinnen die Franzosen aufgrund ihrer numerischen Überlegenheit die Oberhand. Beide Seiten erleiden nur geringe Verluste. Die Yeomanry Brigade zieht sich auf eine Position unmittelbar außerhalb Folkestones zurück.
+
+#### Links
 - [Pressemeldungen](https://cosimwue.github.io/TDTL2020/1883/07/05/Ruhe-vor-dem-Sturm.html)
-
-#### Frankreich
-
-- [Befehle]({{site.baseurl}}/assets/docs/Befehl_BLAU_Tag_1.pdf)
-
-
-#### England
-
-- [Lagebild]({{site.baseurl}}/assets/docs/Karte_ROT_Tag_1.pdf)
-- [Befehle]({{site.baseurl}}/assets/docs/Befehl_ROT_Tag_1.txt)
+- [Französische Befehle]({{site.baseurl}}/assets/docs/Befehl_BLAU_Tag_1.pdf)
+- [Britisches Lagebild]({{site.baseurl}}/assets/docs/Karte_ROT_Tag_1.pdf)
+- [Britische Befehle]({{site.baseurl}}/assets/docs/Befehl_ROT_Tag_1.txt)
 
 
 ### Tag 2 - 6. Juli 1883
 ![Karte]({{site.baseurl}}/assets/img/Tag2.jpg)
 
+#### 2. Gefecht von Folkestone.
+Nach vollständiger Anlandung der 7e DC stößt diese entlang der   Straße Folkestone–Ashford vor und trifft wenige Kilometer außerhalb von Folkestone auf die Yeomanry Brigade. Diese kann dem Angriff nicht mehr ausweichen und wird von der zahlenmäßig deutlich überlegenen 7e DC vollständig zerschlagen. Die englischen Verluste belaufen sich auf c. 150 Tote und c. 450 Verwundete, die 7e DC hat c. 50 Tote und c. 100 Verwundete zu beklagen. Zwei Eskadronen der Yeomanry Brigade waren zuvor detachiert worden und bilden nun in Ashford die Kavalleriegruppe Drake. Nach der Schlacht wendet sich der Kommandeur der 7e DC mit der ersten Brigade Richtung Canterbury, die zweite Brigade bewegt sich auf Ashford zu.
+
+#### Schlacht von Margate. 
+In den Morgenstunden tritt die 7e DI von Ramsgate  aus  zum Angriff gegen Margate an. Die Queen’s French Legion, die Stellungen in Häusern am Stadtrand bezogen hat, kann sich nach mehrstündigen, heftigen Kämpfen behaupten und den französischen Angriff abwehren. Die über offenes Gelände angreifende 7e DI  erleidet  Verluste  in  Höhe  von  c.  500  Toten  und  1.000  Verwundeten, die Queen’s French Legion hat c. 100 Tote und c. 300 Verwundete zu beklagen. Nach dem gescheiterten Eroberungsversuch verbleibt die 7e DI mit einer Brigade und der Divisionsartillerie vor Margate, um einen Ausbruch der Queen’s French Legion zu verhindern.
+
+#### Links
 - [Pressemeldungen](https://cosimwue.github.io/TDTL2020/1883/07/06/Invasion.html)
-
-#### Frankreich
-
-- [Meldungen]({{site.baseurl}}/assets/docs/Meldungen_BLAU_Tag_1.txt)
-- [Lagebild]({{site.baseurl}}/assets/docs/Karte_BLAU_Tag_2.pdf)
-- [Befehle]({{site.baseurl}}/assets/docs/Befehl_BLAU_Tag_2.pdf)
-
-
-#### England
-
-- [Meldungen]({{site.baseurl}}/assets/docs/Meldungen_ROT_Tag_1.txt)
-- [Lagebild]({{site.baseurl}}/assets/docs/Karte_ROT_Tag_2.pdf)
-- [Befehle]({{site.baseurl}}/assets/docs/Befehl_ROT_Tag_2.txt)
+- [Französische Meldungen]({{site.baseurl}}/assets/docs/Meldungen_BLAU_Tag_1.txt)
+- [Französisches Lagebild]({{site.baseurl}}/assets/docs/Karte_BLAU_Tag_2.pdf)
+- [Französische Befehle]({{site.baseurl}}/assets/docs/Befehl_BLAU_Tag_2.pdf)
+- [Britische Meldungen]({{site.baseurl}}/assets/docs/Meldungen_ROT_Tag_1.txt)
+- [Britisches Lagebild]({{site.baseurl}}/assets/docs/Karte_ROT_Tag_2.pdf)
+- [Britische Befehle]({{site.baseurl}}/assets/docs/Befehl_ROT_Tag_2.txt)
 
 
 ### Tag 3 - 7. Juli 1883
