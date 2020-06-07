@@ -101,199 +101,156 @@ In den Morgenstunden tritt die 7e DI von Ramsgate  aus  zum Angriff gegen Margat
 ### Tag 3 - 7. Juli 1883
 ![Karte]({{site.baseurl}}/assets/img/Tag3.jpg)
 
+#### Reitergefecht von Ham Street.
+Am späten Vormittag treffen zwei von 6 Division detachierte Eskadronen auf eine Eskadron der zweiten Brigade der 7e DC, die mit dem Auftrag um Ashford herum entsandt worden war, feindliche Kommunikationslinien zu zerstören. Das Aufeinandertreffen kommt für beide Seiten überraschend, die französische Eskadron hat gerade die Telegraphen-verbindung von Ashford nach Süd-westen unterbrochen. Den Engländern gelingt es bei geringen eigenen Verlusten von c. 10 Toten und c. 40 Verwundeten, die französische Eskadron von rund 120 Mann vollständig zu zerschlagen.
+
+#### Schlacht von Worthing.
+Am Morgen versucht die 8e DC, aus ihrem Brückenkopf Richtung Nordwesten auszubrechen. Gleichzeitig treten die Brigade Dapper und die zweite Brigade der 5 Division von Stellungen bei Bramber zu Angriff gegen Shoreham an. Zunächst scheitert der Versuch der 8e DC, in unwegsamem Gelände bergauf durchzubrechen, unter schweren Verlusten, die erste Brigade der Division wird vollständig zerschlagen, die Division verliert ihre Divisionsartillerie.2 Die zweite Brigade geht ungeordnet nach Shoreham zurück, wo sie von der Brigade Dapper und der zweiten Brigade der 5 Division angegriffen wird. Unter der Führung ihres im infanteristischen Gefecht erfahrenen Divisionskommandeurs gelingt es den Resten der 8e DC allerdings, den Angriff abzuwehren und sich in die Häuser des Ortes zurückzuziehen.3 Die englischen Verluste belaufen sich insgesamt auf c. 150 Tote und c. 400 Verwundete, die Franzosen verlieren c. 500 Tote und c. 700 Verwundete.
+
+#### Links
 - [Pressemeldungen](https://cosimwue.github.io/TDTL2020/1883/07/07/Schlacht-um-Margate.html)
-
-#### Frankreich
-
-- [Meldungen]({{site.baseurl}}/assets/docs/Meldungen_BLAU_Tag_2.txt)
-- [Lagebild]({{site.baseurl}}/assets/docs/Karte_BLAU_Tag_3.pdf)
-- [Befehle]({{site.baseurl}}/assets/docs/Befehl_BLAU_Tag_3.pdf)
-
-
-#### England
-
-- [Meldungen]({{site.baseurl}}/assets/docs/Meldungen_ROT_Tag_2.txt)
-- [Lagebild]({{site.baseurl}}/assets/docs/Karte_ROT_Tag_3.pdf)
-- [Befehle]({{site.baseurl}}/assets/docs/Befehl_ROT_Tag_3.txt)
+- [Französische Meldungen]({{site.baseurl}}/assets/docs/Meldungen_BLAU_Tag_2.txt)
+- [Französisches Lagebild]({{site.baseurl}}/assets/docs/Karte_BLAU_Tag_3.pdf)
+- [Französische Befehle]({{site.baseurl}}/assets/docs/Befehl_BLAU_Tag_3.pdf)
+- [Britische Meldungen]({{site.baseurl}}/assets/docs/Meldungen_ROT_Tag_2.txt)
+- [Britisches Lagebild]({{site.baseurl}}/assets/docs/Karte_ROT_Tag_3.pdf)
+- [Britische Befehle]({{site.baseurl}}/assets/docs/Befehl_ROT_Tag_3.txt)
 
 
 ### Tag 4 - 7. Juli 1883
 ![Karte]({{site.baseurl}}/assets/img/Tag4.jpg)
 
+#### Kapitulation von Shoreham.
+Am Morgen treten die Brigade Dapper, die zweite Brigade der 5 Division sowie die Navy Brigade nach intensive Feuervorbereitung duch die Navy Brigade zum Angriff auf Shoreham an. Angesichts der erdrückenden englischen Übermacht kapituliert der Kommandeur der 8e DC schließlich nach kurzem Feuergefecht. Er geht mit insgesamt 600 Überlebenden der Division in Gefangenschaft. Die 8e DC ist damit vollständig zerschlagen.
+
+#### Schlacht von Boughton
+Am Morgen greifen Teile des ersten französischen Korps (8e DI) sowie Teile des dritten Korps (12e DI, 108e Bde, Korpsartillerie) die in Stellungen bei Boughton stehende 1 Colonial Division an. Nach heftigen Kämpfen wird die Division nahezu völlig zerschlagen, lediglich zwei Bataillone können entkommen. Die englischen Verluste sind mit insgesamt c. 5.500 Mann erheblich, die Franzosen verlieren c. 3.000 Mann.
+
+#### Links
 - [Pressemeldungen](https://cosimwue.github.io/TDTL2020/1883/07/08/Englands-Schande.html)
-
-#### Frankreich
-
-- [Meldungen]({{site.baseurl}}/assets/docs/Meldungen_BLAU_Tag_3.txt)
-- [Lagebild]({{site.baseurl}}/assets/docs/Karte_BLAU_Tag_4.pdf)
-- [Befehle]({{site.baseurl}}/assets/docs/Befehl_BLAU_Tag_4.pdf)
-
-
-#### England
-
-- [Meldungen]({{site.baseurl}}/assets/docs/Meldungen_ROT_Tag_3.txt)
-- [Lagebild]({{site.baseurl}}/assets/docs/Karte_ROT_Tag_4.pdf)
-- [Befehle]({{site.baseurl}}/assets/docs/Befehl_ROT_Tag_4.txt)
+- [Französische Meldungen]({{site.baseurl}}/assets/docs/Meldungen_BLAU_Tag_3.txt)
+- [Französisches Lagebild]({{site.baseurl}}/assets/docs/Karte_BLAU_Tag_4.pdf)
+- [Französische Befehle]({{site.baseurl}}/assets/docs/Befehl_BLAU_Tag_4.pdf)
+- [Britische Meldungen]({{site.baseurl}}/assets/docs/Meldungen_ROT_Tag_3.txt)
+- [Britisches Lagebild]({{site.baseurl}}/assets/docs/Karte_ROT_Tag_4.pdf)
+- [Britische Befehle]({{site.baseurl}}/assets/docs/Befehl_ROT_Tag_4.txt)
 
 
 
 ### Tag 5 - 8. Juli 1883
 ![Karte]({{site.baseurl}}/assets/img/Tag5.jpg)
 
+#### Links
 - [Pressemeldungen](https://cosimwue.github.io/TDTL2020/1883/07/09/Siegestaumel.html)
-
-#### Frankreich
-
-- [Meldungen]({{site.baseurl}}/assets/docs/Meldungen_BLAU_Tag_4.txt)
-- [Lagebild]({{site.baseurl}}/assets/docs/Karte_BLAU_Tag_5.pdf)
-- [Befehle]({{site.baseurl}}/assets/docs/Befehl_BLAU_Tag_5.pdf)
-
-
-#### England
-
-- [Meldungen]({{site.baseurl}}/assets/docs/Meldungen_ROT_Tag_4.txt)
-- [Lagebild]({{site.baseurl}}/assets/docs/Karte_ROT_Tag_5.pdf)
-- [Befehle]({{site.baseurl}}/assets/docs/Befehl_ROT_Tag_5.txt)
+- [Französische Meldungen]({{site.baseurl}}/assets/docs/Meldungen_BLAU_Tag_4.txt)
+- [Französisches Lagebild]({{site.baseurl}}/assets/docs/Karte_BLAU_Tag_5.pdf)
+- [Französische Befehle]({{site.baseurl}}/assets/docs/Befehl_BLAU_Tag_5.pdf)
+- [Britische Meldungen]({{site.baseurl}}/assets/docs/Meldungen_ROT_Tag_4.txt)
+- [Britisches Lagebild]({{site.baseurl}}/assets/docs/Karte_ROT_Tag_5.pdf)
+- [Britische Befehle]({{site.baseurl}}/assets/docs/Befehl_ROT_Tag_5.txt)
 
 
 
 ### Tag 6 - 9. Juli 1883
 ![Karte]({{site.baseurl}}/assets/img/Tag6.jpg)
 
+#### Links
 - [Pressemeldungen](https://cosimwue.github.io/TDTL2020/1883/07/10/Aus-Kent.html)
-
-#### Frankreich
-
-- [Meldungen]({{site.baseurl}}/assets/docs/Meldungen_BLAU_Tag_5.txt)
-- [Lagebild]({{site.baseurl}}/assets/docs/Karte_BLAU_Tag_6.pdf)
-- [Befehle]({{site.baseurl}}/assets/docs/Befehl_BLAU_Tag_6.pdf)
-
-
-#### England
-
-- [Meldungen]({{site.baseurl}}/assets/docs/Meldungen_ROT_Tag_5.txt)
-- [Lagebild]({{site.baseurl}}/assets/docs/Karte_ROT_Tag_6.pdf)
-- [Befehle]({{site.baseurl}}/assets/docs/Befehl_ROT_Tag_6.txt)
+- [Französische Meldungen]({{site.baseurl}}/assets/docs/Meldungen_BLAU_Tag_5.txt)
+- [Französisches Lagebild]({{site.baseurl}}/assets/docs/Karte_BLAU_Tag_6.pdf)
+- [Französische Befehle]({{site.baseurl}}/assets/docs/Befehl_BLAU_Tag_6.pdf)
+- [Britische Meldungen]({{site.baseurl}}/assets/docs/Meldungen_ROT_Tag_5.txt)
+- [Britisches Lagebild]({{site.baseurl}}/assets/docs/Karte_ROT_Tag_6.pdf)
+- [Britische Befehle]({{site.baseurl}}/assets/docs/Befehl_ROT_Tag_6.txt)
 
 
 
 ### Tag 7 - 10. Juli 1883
 ![Karte]({{site.baseurl}}/assets/img/Tag7.jpg)
 
+#### Links
 - [Pressemeldungen](https://cosimwue.github.io/TDTL2020/1883/07/11/Polizeiskandal.html)
+- [Französische Meldungen]({{site.baseurl}}/assets/docs/Meldungen_BLAU_Tag_6.txt)
+- [Französisches Lagebild]({{site.baseurl}}/assets/docs/Karte_BLAU_Tag_7.pdf)
+- [Französische Befehle]({{site.baseurl}}/assets/docs/Befehl_BLAU_Tag_7.pdf)
+- [Britische Meldungen]({{site.baseurl}}/assets/docs/Meldungen_ROT_Tag_6.txt)
+- [Britisches Lagebild]({{site.baseurl}}/assets/docs/Karte_ROT_Tag_7.pdf)
+- [Britische Befehle]({{site.baseurl}}/assets/docs/Befehl_ROT_Tag_7.txt)
 
-#### Frankreich
-
-- [Meldungen]({{site.baseurl}}/assets/docs/Meldungen_BLAU_Tag_6.txt)
-- [Lagebild]({{site.baseurl}}/assets/docs/Karte_BLAU_Tag_7.pdf)
-- [Befehle]({{site.baseurl}}/assets/docs/Befehl_BLAU_Tag_7.pdf)
-
-
-#### England
-
-- [Meldungen]({{site.baseurl}}/assets/docs/Meldungen_ROT_Tag_6.txt)
-- [Lagebild]({{site.baseurl}}/assets/docs/Karte_ROT_Tag_7.pdf)
-- [Befehle]({{site.baseurl}}/assets/docs/Befehl_ROT_Tag_7.txt)
 
 
 ### Tag 8 - 11. Juli 1883
 ![Karte]({{site.baseurl}}/assets/img/Tag8.jpg)
 
+#### Links
 - [Pressemeldungen](https://cosimwue.github.io/TDTL2020/1883/07/12/Charge.html)
-
-#### Frankreich
-
-- [Meldungen]({{site.baseurl}}/assets/docs/Meldungen_BLAU_Tag_7.txt)
-- [Lagebild]({{site.baseurl}}/assets/docs/Karte_BLAU_Tag_8.pdf)
-- [Befehle]({{site.baseurl}}/assets/docs/Befehl_BLAU_Tag_8.pdf)
-
-
-#### England
-
-- [Meldungen]({{site.baseurl}}/assets/docs/Meldungen_ROT_Tag_7.txt)
-- [Lagebild]({{site.baseurl}}/assets/docs/Karte_ROT_Tag_8.pdf)
-- [Befehle]({{site.baseurl}}/assets/docs/Befehl_ROT_Tag_8.txt)
-
+- [Französische Meldungen]({{site.baseurl}}/assets/docs/Meldungen_BLAU_Tag_7.txt)
+- [Französisches Lagebild]({{site.baseurl}}/assets/docs/Karte_BLAU_Tag_8.pdf)
+- [Französische Befehle]({{site.baseurl}}/assets/docs/Befehl_BLAU_Tag_8.pdf)
+- [Britische Meldungen]({{site.baseurl}}/assets/docs/Meldungen_ROT_Tag_7.txt)
+- [Britisches Lagebild]({{site.baseurl}}/assets/docs/Karte_ROT_Tag_8.pdf)
+- [Britische Befehle]({{site.baseurl}}/assets/docs/Befehl_ROT_Tag_8.txt)
 
 
 ### Tag 9 - 12. Juli 1883
 ![Karte]({{site.baseurl}}/assets/img/Tag9.jpg)
 
+#### Links
 - [Pressemeldungen](https://cosimwue.github.io/TDTL2020/1883/07/13/Hannibal-ante-portas.html)
-
-#### Frankreich
-
-- [Meldungen]({{site.baseurl}}/assets/docs/Meldungen_BLAU_Tag_8.txt)
-- [Lagebild]({{site.baseurl}}/assets/docs/Karte_BLAU_Tag_9.pdf)
-- [Befehle]({{site.baseurl}}/assets/docs/Befehl_BLAU_Tag_9.pdf)
-
-
-#### England
-
-- [Meldungen]({{site.baseurl}}/assets/docs/Meldungen_ROT_Tag_8.txt)
-- [Lagebild]({{site.baseurl}}/assets/docs/Karte_ROT_Tag_9.pdf)
-- [Befehle]({{site.baseurl}}/assets/docs/Befehl_ROT_Tag_9.txt)
+- [Französische Meldungen]({{site.baseurl}}/assets/docs/Meldungen_BLAU_Tag_8.txt)
+- [Französisches Lagebild]({{site.baseurl}}/assets/docs/Karte_BLAU_Tag_9.pdf)
+- [Französische Befehle]({{site.baseurl}}/assets/docs/Befehl_BLAU_Tag_9.pdf)
+- [Britische Meldungen]({{site.baseurl}}/assets/docs/Meldungen_ROT_Tag_8.txt)
+- [Britisches Lagebild]({{site.baseurl}}/assets/docs/Karte_ROT_Tag_9.pdf)
+- [Britische Befehle]({{site.baseurl}}/assets/docs/Befehl_ROT_Tag_9.txt)
 
 
 ### Tag 10 - 13. Juli 1883
 ![Karte]({{site.baseurl}}/assets/img/Tag10.jpg)
 
+#### Links
 - [Pressemeldungen](https://cosimwue.github.io/TDTL2020/1883/07/14/Krieg-in-London.html)
-
-#### Frankreich
-
-- [Meldungen]({{site.baseurl}}/assets/docs/Meldungen_BLAU_Tag_9.txt)
-- [Lagebild]({{site.baseurl}}/assets/docs/Karte_BLAU_Tag_10.pdf)
-- [Befehle]({{site.baseurl}}/assets/docs/Befehl_BLAU_Tag_10.pdf)
-
-
-#### England
-
-- [Meldungen]({{site.baseurl}}/assets/docs/Meldungen_ROT_Tag_9.txt)
-- [Lagebild]({{site.baseurl}}/assets/docs/Karte_ROT_Tag_10.pdf)
-- [Befehle]({{site.baseurl}}/assets/docs/Befehl_ROT_Tag_10.txt)
+- [Französische Meldungen]({{site.baseurl}}/assets/docs/Meldungen_BLAU_Tag_9.txt)
+- [Französisches Lagebild]({{site.baseurl}}/assets/docs/Karte_BLAU_Tag_10.pdf)
+- [Französische Befehle]({{site.baseurl}}/assets/docs/Befehl_BLAU_Tag_10.pdf)
+- [Britische Meldungen]({{site.baseurl}}/assets/docs/Meldungen_ROT_Tag_9.txt)
+- [Britisches Lagebild]({{site.baseurl}}/assets/docs/Karte_ROT_Tag_10.pdf)
+- [Britische Befehle]({{site.baseurl}}/assets/docs/Befehl_ROT_Tag_10.txt)
 
 
 ### Tag 11 - 14. Juli 1883
 ![Karte]({{site.baseurl}}/assets/img/Tag11.jpg)
 
+#### Links
 - [Pressemeldungen](https://cosimwue.github.io/TDTL2020/1883/07/16/Wunder-von-Hackney.html)
+- [Französische Meldungen]({{site.baseurl}}/assets/docs/Meldungen_BLAU_Tag_10.txt)
+- [Französisches Lagebild]({{site.baseurl}}/assets/docs/Karte_BLAU_Tag_11.pdf)
+- [Französische Befehle]({{site.baseurl}}/assets/docs/Befehl_BLAU_Tag_11.pdf)
+- [Britische Meldungen]({{site.baseurl}}/assets/docs/Meldungen_ROT_Tag_10.txt)
+- [Britisches Lagebild]({{site.baseurl}}/assets/docs/Karte_ROT_Tag_11.pdf)
+- [Britische Befehle]({{site.baseurl}}/assets/docs/Befehl_ROT_Tag_11.txt)
 
-#### Frankreich
-
-- [Meldungen]({{site.baseurl}}/assets/docs/Meldungen_BLAU_Tag_10.txt)
-- [Lagebild]({{site.baseurl}}/assets/docs/Karte_BLAU_Tag_11.pdf)
-- [Befehle]({{site.baseurl}}/assets/docs/Befehl_BLAU_Tag_11.pdf)
-
-
-#### England
-
-- [Meldungen]({{site.baseurl}}/assets/docs/Meldungen_ROT_Tag_10.txt)
-- [Lagebild]({{site.baseurl}}/assets/docs/Karte_ROT_Tag_11.pdf)
-- [Befehle]({{site.baseurl}}/assets/docs/Befehl_ROT_Tag_11.txt)
 
 
 ### Tag 12 - 15. Juli 1883
 ![Karte]({{site.baseurl}}/assets/img/Tag12.jpg)
 
+#### Links
 - [Pressemeldungen](https://cosimwue.github.io/TDTL2020/1883/07/17/Waffenstillstand.html)
-
-#### Frankreich
-
-- [Meldungen]({{site.baseurl}}/assets/docs/Meldungen_BLAU_Tag_11.txt)
-- [Befehle]({{site.baseurl}}/assets/docs/Befehl_BLAU_Tag_12.pdf)
-
-
-#### England
-
-- [Meldungen]({{site.baseurl}}/assets/docs/Meldungen_ROT_Tag_11.txt)
-- [Lagebild]({{site.baseurl}}/assets/docs/Karte_ROT_Tag_12.pdf)
-- [Befehle]({{site.baseurl}}/assets/docs/Befehl_ROT_Tag_12.txt)
+- [Französische Meldungen]({{site.baseurl}}/assets/docs/Meldungen_BLAU_Tag_11.txt)
+- [Französische Befehle]({{site.baseurl}}/assets/docs/Befehl_BLAU_Tag_12.pdf)
+- [Britische Meldungen]({{site.baseurl}}/assets/docs/Meldungen_ROT_Tag_11.txt)
+- [Britisches Lagebild]({{site.baseurl}}/assets/docs/Karte_ROT_Tag_12.pdf)
+- [Britische Befehle]({{site.baseurl}}/assets/docs/Befehl_ROT_Tag_12.txt)
 
 
 ## Ergebnis
 
-7 Französische Siege in 26 Schlachten und Gefechten
+Der Feldzug endet in einer strategischen Pattsituation. Das französische Ziel, das Königreich mit einen schnellen Enthauptungsschlag zu treffen und Verhandlungen zu eigenen Bedingungen zu erzwingen konnte nicht vollständig erreicht werden, was primär der vollständigen und kampflosen Aufgabe Südlondons und Sprengung der Themsebrücken durch die englische Seite geschuldet ist. Auf der anderen Seite stehen am 15. Juli 2 Französische Armeecoprs im Süden Londons im Süden Londons. Die französischen Truppen sind zu diesem Zeitpunkt von Versorgung und Kommunikation abgeschnitten. Sie dort gewaltsam zu entfernen würde aber vermutlich wochenlange Häuserkämpfe erfordern, auf britischer Seite weit über 10.000 weitere Leben fordern, und die Innenstadt Londons in ein Trümmerfeld verwandeln. Das ist, angesichts der Ereignisse um die Pariser Kommune 1871 sicher allen beteiligten sehr bewusst, und stärkt die französische Verhandlungsposition.
+
+### Das Ergebnis in Zahlen:
+
+19 Englische Siege in 26 Schlachten und Gefechten
 
 Frankreich:
 - 12520 Tote
@@ -305,6 +262,7 @@ England:
 - 8715 Tote
 - 9965 Verwundete
 - 13950 Vermisste
+
 
 
 
